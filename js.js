@@ -17,3 +17,14 @@ function Press() {
     tasty.innerText = parseInt(total.innerText) + 1;
 }
 
+/*
+
+Step 1:
+Complete
+
+Step 2:
+Incomplete. The second button looks like it's getting the total from the first button and adding 1. Try getting the total from the second button.
+
+
+From Kenn
+*/
