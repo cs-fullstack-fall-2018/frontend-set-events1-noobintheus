@@ -14,7 +14,7 @@ horrible.addEventListener("click", Press);
 
 function Press() {
 
-    tasty.innerText = parseInt(total.innerText) + 1;
+    tasty.innerText = parseInt(tasty.innerText) + 1;
 }
 
 /*
